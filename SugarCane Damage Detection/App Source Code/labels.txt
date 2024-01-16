@@ -1,0 +1,6 @@
+Cracked
+Crushed
+NoBuds
+TwoBuds
+SingleDamagedBuds
+NoDamage
